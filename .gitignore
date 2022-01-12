@@ -1,0 +1,7 @@
+htmlcov
+venv
+media
+.coverage
+.env
+db.sqlite3
+setup.cfg
