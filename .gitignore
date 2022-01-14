@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+env
+media
+.env
+beth.jpg
+db.sqlite3
